@@ -117,3 +117,21 @@
 | HU-A01 | Como administrador, quiero gestionar usuarios | - Puede ver, editar o bloquear usuarios <br> - Cambios aplicados inmediatamente |
 | HU-A02 | Como administrador, quiero ver reportes | - Reportes de usuarios activos, pedidos y transacciones |
 | HU-A03 | Como administrador, quiero generar reportes de uso y peticiones | - Reportes con solicitudes, frecuencia de uso y comportamiento <br> - Posibilidad de exportar o visualizar |
+
+# 📦 Épicas — AgroFlow
+
+---
+
+## EP-01 — Gestión de Transporte
+
+**Descripción:** Permite a los transportistas registrarse, publicar su disponibilidad y gestionar solicitudes de envío. También garantiza que productores y el sistema estén informados sobre el estado de cada entrega.
+
+| HU | Historia de Usuario | Rol |
+|----|---------------------|-----|
+| HU-P06 | Como productor, quiero recibir notificaciones de interés | 🌾 Productor |
+| HU-S05 | Como sistema, quiero mostrar transportistas disponibles para el pedido | 🤖 Sistema |
+| HU-T02 | Como transportista, quiero publicar mi disponibilidad | 🚛 Transportista |
+| HU-T03 | Como transportista, quiero recibir solicitudes | 🚛 Transportista |
+| HU-T04 | Como transportista, quiero aceptar servicios | 🚛 Transportista |
+| HU-T05 | Como transportista, quiero actualizar estado de entrega | 🚛 Transportista |
+| HU-T06 | Como transportista, quiero ver siempre el estado de la entrega | 🚛 Transportista |
