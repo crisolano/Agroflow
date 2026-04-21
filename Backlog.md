@@ -10,10 +10,10 @@
 
 | Rol | Descripción |
 |-----|-------------|
-| 🌾 Productor | Agricultores que ofrecen productos |
-| 🛒 Comerciante | Compran productos a los productores |
-| 🚛 Transportista | Ofrecen servicios de transporte |
-| 🔧 Administrador | Gestiona la plataforma |
+|  Productor | Agricultores que ofrecen productos |
+|  Comerciante | Compran productos a los productores |
+|  Transportista | Ofrecen servicios de transporte |
+|  Administrador | Gestiona la plataforma |
 
 ---
 
