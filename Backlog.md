@@ -41,7 +41,7 @@
 | RNF07 | Localización | El sistema debe adaptarse a contextos rurales, incluyendo idioma, unidades de medida y condiciones de conectividad. |
 | RNF08 | Tolerancia a fallos | El sistema debe manejar fallos de red o errores sin pérdida de información, permitiendo recuperación de datos. |
 
-### Historias de Usuario + Criterios de Aceptación (Actualizada)
+### Historias de Usuario + Criterios de Aceptación
 
 | ID | Historia de Usuario | Criterio(s) de Aceptación |
 |----|--------------------|--------------------------|
@@ -66,6 +66,7 @@
 | HU-T03 | Como transportista, quiero recibir solicitudes | El sistema muestra una lista de solicitudes de transporte disponibles. Cada solicitud incluye detalles del pedido, origen y destino. |
 | HU-T04 | Como transportista, quiero aceptar servicios | El usuario puede aceptar una solicitud de transporte. El sistema asigna el transportista al pedido y actualiza el estado del servicio. |
 | HU-T05 | Como transportista, quiero actualizar estado de entrega | El usuario puede cambiar el estado del pedido (recogido, en tránsito, entregado). El sistema actualiza la información en tiempo real para todos los involucrados. |
+| HU-T06 | Como transportista, quiero actualizar o ver siempre la entrega | El transportista puede visualizar en todo momento el estado actual de los pedidos asignados. El sistema permite actualizar el estado de la entrega en cada etapa del proceso. |
 | HU-S01 | Como sistema, quiero sugerir coincidencias para facilitar ventas | El sistema analiza oferta y demanda y muestra coincidencias relevantes. Las coincidencias consideran producto, cantidad, ubicación y fechas. |
 | HU-S02 | Como sistema, quiero enviar notificaciones | El sistema genera notificaciones automáticas ante eventos (nuevo pedido, aceptación, rechazo, entrega). Las notificaciones son entregadas de forma oportuna. |
 | HU-S03 | Como sistema, quiero priorizar por cercanía | El sistema ordena resultados según la distancia entre usuarios. Se utiliza la ubicación registrada para calcular proximidad. |
