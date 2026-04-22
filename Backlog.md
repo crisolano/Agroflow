@@ -120,10 +120,10 @@
 
 # 📦 Épicas 
 
-| Epicas | Historia de Usuario |
-|----|---------------------|
-| De transporte | HU-PO6  HU-S05  HU-T02  HU-T03  HU-T04  HU-T05  HU-T06  |  
-| De gestion de pedidos | HU-C05  HU-C06  HU-PO4  HU-PO5  HU-S04  |
-| De historial/reportes | HU-A02  HU-A03  HU-P07  |
-| De gestion de ofertas | HU-P02  HU-P03  HU-P09  |
-| De registro | HU-P01  HU-C01  HU-T01  |
+| Epicas | Historia de Usuario |       |
+|----|---------------------|---------|
+| De transporte | - HU-PO6 <br>  - HU-S05 <br> - HU-T02 <br> - HU-T03 <br> - HU-T04 <br> - HU-T05 <br> - HU-T06  | - Media <br> - Media <br> - Media <br> - Media <br> - Media <br> - Baja <br> - Baja  |
+| De gestion de pedidos | - HU-C05 <br> - HU-C06 <br> - HU-PO4 <br> - HU-PO5 <br> - HU-S04  | - Media <br> - Alta <br> - Alta <br> - Alta <br> - Alta |
+| De historial/reportes | - HU-A02 <br> - HU-A03 <br> - HU-P07  | - Baja <br> - Baja <br> - Media |
+| De gestion de ofertas | - HU-P02 <br> - HU-P03 <br> - HU-P09  | - Alta <br> - Alta <br> - Media |
+| De registro | - HU-P01 <br> - HU-C01 <br> - HU-T01  | - Alta <br> - Alta <br> - Media |
