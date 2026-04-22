@@ -120,7 +120,7 @@
 
 # 📦 Épicas 
 
-| Epicas | Historia de Usuario |       |
+| Epicas | Historia de Usuario | Prioridad      |
 |----|---------------------|---------|
 | De transporte | - HU-PO6 <br>  - HU-S05 <br> - HU-T02 <br> - HU-T03 <br> - HU-T04 <br> - HU-T05 <br> - HU-T06  | - Media <br> - Media <br> - Media <br> - Media <br> - Media <br> - Baja <br> - Baja  |
 | De gestion de pedidos | - HU-C05 <br> - HU-C06 <br> - HU-PO4 <br> - HU-PO5 <br> - HU-S04  | - Media <br> - Alta <br> - Alta <br> - Alta <br> - Alta |
