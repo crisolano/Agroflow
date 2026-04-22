@@ -118,7 +118,7 @@
 | HU-A02 | Como administrador, quiero ver reportes | - Reportes de usuarios activos, pedidos y transacciones |
 | HU-A03 | Como administrador, quiero generar reportes de uso y peticiones | - Reportes con solicitudes, frecuencia de uso y comportamiento <br> - Posibilidad de exportar o visualizar |
 
-# 📦 Épicas 
+# 📋 Épicas Y Prioridad
 
 | Epicas | Historia de Usuario | Prioridad      |
 |----|---------------------|---------|
