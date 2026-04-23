@@ -59,15 +59,15 @@
 
 | ID | Historia | Criterios de Aceptación |
 |----|----------|------------------------|
-| HU-P01 | Como productor, quiero registrarme para ofrecer mis productos | - Formulario con datos obligatorios (nombre, correo, contraseña, rol) <br> - El sistema valida que el correo no esté registrado <br> - La cuenta se crea y permite acceso al sistema |
-| HU-P02 | Como productor, quiero publicar mis cultivos para encontrar compradores | - Ingreso de tipo, cantidad, fecha de cosecha y ubicación <br> - Validación de campos obligatorios <br> - Publicación visible para otros usuarios |
-| HU-P03 | Como productor, quiero actualizar mi oferta para reflejar cambios | - El usuario puede editar una publicación existente <br> - Los cambios se guardan y actualizan en tiempo real |
-| HU-P04 | Como productor, quiero ver pedidos para decidir ventas | - Lista de pedidos con info del comprador, cantidad y fecha <br> - Lista se actualiza automáticamente |
-| HU-P05 | Como productor, quiero aceptar o rechazar pedidos | - Puede marcar un pedido como aceptado o rechazado <br> - Estado actualizado inmediatamente <br> - El comprador recibe notificación |
-| HU-P06 | Como productor, quiero recibir notificaciones de interés | - Notificación cuando un comerciante realiza un pedido <br> - Visibles en plataforma y opcionalmente vía push o correo |
+| HU-P01 | Como productor, quiero registrarme en la plataforma para poder ofrecer mis productos y poder venderlos frescos. | - Formulario con datos obligatorios (nombre, correo, contraseña, rol) <br> - El sistema valida que el correo no esté registrado <br> - La cuenta se crea y permite acceso al sistema |
+| HU-P02 | Como productor, quiero publicar mis cultivos con fechas estimadas para encontrar compradores. | - Ingreso de tipo, cantidad, fecha de cosecha y ubicación <br> - Validación de campos obligatorios <br> - Publicación visible para otros usuarios |
+| HU-P03 | Como productor, quiero actualizar mis cantidades disponibles para reflejar cambios en la producción mostrando que tal esta la cosecha actual. | - El usuario puede editar una publicación existente <br> - Los cambios se guardan y actualizan en tiempo real |
+| HU-P04 | Como productor, quiero ver solicitudes de compra para decidir a quién vender así siempre tendré para escoger la mejor venta. | - Lista de pedidos con info del comprador, cantidad y fecha <br> - Lista se actualiza automáticamente |
+| HU-P05 | Como productor, quiero aceptar o rechazar pedidos según mi capacidad y lo que sea mas efectivo. | - Puede marcar un pedido como aceptado o rechazado <br> - Estado actualizado inmediatamente <br> - El comprador recibe notificación |
+| HU-P06 | Como productor, quiero solicitar un transporte para el envío de mis productos a el comprador | - Notificación cuando un comerciante realiza un pedido <br> - Visibles en plataforma y opcionalmente vía push o correo |
 | HU-P07 | Como productor, quiero ver mi historial de ventas | - Listado de ventas con producto, cantidad, fecha y comprador <br> - Sin pérdida de información |
 | HU-P08 | Como productor, quiero calificar compradores | - Asignar calificación y/o comentario tras una transacción <br> - Calificación asociada al perfil del comprador |
-| HU-P09 | Como productor, quiero visualizar compradores cercanos | - Lista de comerciantes cercanos ordenados por proximidad <br> - Muestra ubicación y productos de interés de cada uno |
+| HU-P09 | Como productor, quiero visualizar compradores cercanos para facilitar la venta | - Lista de comerciantes cercanos ordenados por proximidad <br> - Muestra ubicación y productos de interés de cada uno |
 
 ---
 
@@ -75,12 +75,12 @@
 
 | ID | Historia | Criterios de Aceptación |
 |----|----------|------------------------|
-| HU-C01 | Como comerciante, quiero registrarme para comprar productos | - Registro indicando rol de comerciante <br> - Validación de datos y acceso tras registro exitoso |
-| HU-C02 | Como comerciante, quiero publicar mis necesidades | - Registro de producto requerido, cantidad, fecha y ubicación <br> - Validación y publicación en plataforma |
-| HU-C03 | Como comerciante, quiero buscar productos disponibles | - Lista de productos disponibles con filtros (tipo, ubicación, fecha) <br> - Resultados relevantes según filtros |
-| HU-C04 | Como comerciante, quiero ver recomendaciones cercanas | - Muestra productores cercanos ordenados por proximidad |
-| HU-C05 | Como comerciante, quiero generar pedidos | - Selecciona una oferta, indica cantidad y condiciones <br> - Pedido registrado y enviado al productor |
-| HU-C06 | Como comerciante, quiero hacer seguimiento de pedidos | - Muestra estado del pedido (pendiente, aceptado, en tránsito, entregado) <br> - Actualización automática |
+| HU-C01 | Como comerciante, quiero registrarme para poder comprar productos directamente a productores. | - Registro indicando rol de comerciante <br> - Validación de datos y acceso tras registro exitoso |
+| HU-C02 | Como comerciante, quiero publicar mis necesidades para recibir ofertas directamente de los agricultores. | - Registro de producto requerido, cantidad, fecha y ubicación <br> - Validación y publicación en plataforma |
+| HU-C03 | Como comerciante, quiero buscar productos disponibles para conseguir productos más frescos. | - Lista de productos disponibles con filtros (tipo, ubicación, fecha) <br> - Resultados relevantes según filtros |
+| HU-C04 | Como comerciante, quiero comparar precios entre productores para conseguir lo que mas me potencie y economice mi trabajo. | - Muestra productores cercanos ordenados por proximidad |
+| HU-C05 | Como comerciante, quiero ver recomendaciones de productores cercanos buscando la mejor calidad siempre. | - Selecciona una oferta, indica cantidad y condiciones <br> - Pedido registrado y enviado al productor |
+| HU-C06 | Como comerciante, quiero generar pedidos fácilmente así pudiendo obtener lo que necesite. | - Muestra estado del pedido (pendiente, aceptado, en tránsito, entregado) <br> - Actualización automática |
 | HU-C07 | Como comerciante, quiero comparar precios | - Visualiza múltiples ofertas del mismo producto <br> - Muestra diferencias de precio, ubicación y disponibilidad |
 
 ---
@@ -91,8 +91,8 @@
 |----|----------|------------------------|
 | HU-T01 | Como transportista, quiero registrarme para ofrecer servicios | - Registro con rol de transportista <br> - Validación y acceso tras registro exitoso |
 | HU-T02 | Como transportista, quiero publicar mi disponibilidad | - Ingreso de rutas, horarios y capacidad de carga <br> - Información publicada para asignaciones |
-| HU-T03 | Como transportista, quiero recibir solicitudes | - Lista de solicitudes con detalles del pedido, origen y destino |
-| HU-T04 | Como transportista, quiero aceptar servicios | - Puede aceptar una solicitud <br> - Sistema asigna al transportista y actualiza el estado |
+| HU-T03 | Como transportista, quiero recibir solicitudes de transporte | - Lista de solicitudes con detalles del pedido, origen y destino |
+| HU-T04 | Como transportista, quiero aceptar o rechazar servicios según mi capacidad | - Puede aceptar una solicitud <br> - Sistema asigna al transportista y actualiza el estado |
 | HU-T05 | Como transportista, quiero actualizar estado de entrega | - Puede cambiar estado: recogido → en tránsito → entregado <br> - Actualización en tiempo real para todos los involucrados |
 | HU-T06 | Como transportista, quiero ver siempre el estado de la entrega | - Visualización del estado actual de pedidos asignados en todo momento |
 
@@ -105,8 +105,8 @@
 | HU-S01 | Como sistema, quiero sugerir coincidencias para facilitar ventas | - Analiza oferta y demanda considerando producto, cantidad, ubicación y fechas |
 | HU-S02 | Como sistema, quiero enviar notificaciones | - Notificaciones automáticas ante eventos: nuevo pedido, aceptación, rechazo, entrega |
 | HU-S03 | Como sistema, quiero priorizar por cercanía | - Ordena resultados por distancia usando la ubicación registrada |
-| HU-S04 | Como sistema, quiero registrar todas las transacciones | - Almacena comprador, productor, producto, cantidad y fecha <br> - Disponible para consultas y auditoría |
-| HU-S05 | Como sistema, quiero mostrar transportistas disponibles | - Lista filtrada por ubicación, capacidad y disponibilidad del pedido |
+| HU-S04 | Como sistema, quiero registrar todas las transacciones para la compra venta | - Almacena comprador, productor, producto, cantidad y fecha <br> - Disponible para consultas y auditoría |
+| HU-S05 | Como sistema, quiero mostrar transportistas disponibles para el pedido | - Lista filtrada por ubicación, capacidad y disponibilidad del pedido |
 
 ---
 
@@ -116,7 +116,7 @@
 |----|----------|------------------------|
 | HU-A01 | Como administrador, quiero gestionar usuarios | - Puede ver, editar o bloquear usuarios <br> - Cambios aplicados inmediatamente |
 | HU-A02 | Como administrador, quiero ver reportes | - Reportes de usuarios activos, pedidos y transacciones |
-| HU-A03 | Como administrador, quiero generar reportes de uso y peticiones | - Reportes con solicitudes, frecuencia de uso y comportamiento <br> - Posibilidad de exportar o visualizar |
+| HU-A03 | Como administrador, quiero generar reportes de uso y peticiones de los clientes | - Reportes con solicitudes, frecuencia de uso y comportamiento <br> - Posibilidad de exportar o visualizar |
 
 # 📋 Épicas Y Prioridad
 
