@@ -3,6 +3,8 @@
 **Proyecto:** Agroflow  
 **Versión:** 1.0  
 **📋 [Ver Historias en Trello](https://trello.com/invite/b/69e693841df73bb526e68bdf/ATTI29cdcbf8fc0a7585a1c116a0b63e618cF91A12E6/historias-de-usuario)**
+**📽️ [Ver Video de Daily](https://drive.google.com/file/d/1xrm49mOmnmKjO0bZ5DUgYr8C3b6qfp9b/view?usp=sharing )**
+
 
 ---
 
@@ -285,13 +287,11 @@ Durante este sprint se desarrollaron 8 historias de usuario, con un total de 32 
 | HU-T05 | Baja | 5 |
 | HU-T06 | Baja | 3 |
 
----
 
 **Backlog Refinement**
 
 Se refinó la historia HU-T03, agregando como criterio de aceptación que las solicitudes de transporte deben incluir información detallada del pedido asociado (origen, destino, tipo de producto y volumen), con el fin de facilitar la toma de decisiones del transportista.
 
----
 
 **Sprint Review 4**
 
@@ -308,9 +308,6 @@ Durante la ejecución de este sprint se implementaron las siguientes funcionalid
 
 Como resultado, AgroFlow evolucionó hacia un sistema más completo, incorporando la logística como parte fundamental del flujo de negocio.
 
-<br>
-
----
 
 <br>
 
@@ -352,15 +349,12 @@ Se trabajaron 3 historias de usuario con un total de 31 puntos de esfuerzo.
 | HU-A02 | Baja | 13 |
 | HU-A03 | Baja | 9 |
 
----
 
 **Backlog Refinement**
 
-Se refinó la historia HU-A02, incorporando criterios de aceptación relacionados con la visualización de métricas clave (usuarios activos, transacciones realizadas, volumen de pedidos), así como la posibilidad de filtrar la información por rangos de fecha.
+Se refinó la historia HU-A02, incorporando criterios de aceptación relacionados con la visualización de métricas clave (usuarios activos, transacciones realizadas, volumen de pedidos), así como la posibilidad de filtrar la información por rangos de fecha
 
----
-
-**Sprint Review 4**
+**Sprint Review 5**
 
 Durante este sprint se implementaron las siguientes funcionalidades:
 
