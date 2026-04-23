@@ -133,6 +133,9 @@
 <br>
 
 #  📋 Registro de Sprints
+
+<br>
+
 **Sprint #1**
 
 En este sprint se trabajo el apartado de registro de usuario y gestión de oferta manejando un puntaje de esfuerzo de 30, se adelantaron labores de analísis tales como la consolidación de la base de datos y algunos errores a lo largo del proceso.
@@ -147,6 +150,7 @@ En este sprint se trabajo el apartado de registro de usuario y gestión de ofert
 | HU-C02 | Alta | 5 |
 | HU-T01 | Media | 5 |
 
+<br>
 
 ---
 
@@ -178,7 +182,7 @@ Durante la realizacion de este sprint pudimos implementar funciones basicas a nu
 
 <br>
 
-**Sprint 2**
+**Sprint #2**
 
 Este sprint se centró en la gestión de pedidos y la visibilidad entre usuarios, trabajando un total de 7 historias de usuario con 33 puntos de valor. Las historias de alta prioridad cubrieron el flujo completo de pedidos: el productor puede verlos (HU-P04), aceptarlos o rechazarlos (HU-P05), el comerciante puede hacerles seguimiento (HU-C06) y el sistema registra cada transacción automáticamente (HU-S04). En media prioridad se trabajó la proximidad geográfica para productores (HU-P09) y comerciantes (HU-C04), además del historial de ventas (HU-P07).
 
