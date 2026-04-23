@@ -149,6 +149,7 @@ En este sprint se trabajo el apartado de registro de usuario y gestión de ofert
 ---
 
 **Backlog Refinement**
+
 Un cambio realizado fue la edición de la historia HU-P01, HU-C01, agregandole a los criterios de aceptacion un modulo de recuperación de contraseñas.
 
 ---
