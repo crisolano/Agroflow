@@ -144,4 +144,4 @@ En este sprint se trabajo el apartado de registro de usuario y gestión de ofert
 | HU-P03 | Alta | 5 |
 | HU-C01 | Alta | 5 |
 | HU-C02 | Alta | 5 |
-| HU-T01 | Media | 5 |
+| HU-C03 | Alta | 5 |
