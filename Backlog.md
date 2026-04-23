@@ -55,9 +55,12 @@
 Buscamos crear una aplicacion que pueda ser usada por todos los clientes que lo soliciten facilmente con una interfaz mas sencilla y facil de entender. Tenermos el objetico de resolver el problema de el movimiento de los alimentos en respectivas zonas con nuestro sistema de transportistas, productores y compradores.
 
 ## Roles del equipo de trabajo 
-Product owner: Cristian solano 
-Scrum Master : Jhohhan Daniel
-Developers: Santiago Becerra, Thomas serrano, Kamilo 
+**Product owner**: Cristian solano 
+<br>
+**Scrum Master**: Jhohhan Daniel
+<br>
+**Developers**: Santiago Becerra, Thomas serrano, Kamilo 
+<br>
 
 
 **📋 [Ver Historias en Trello](https://trello.com/invite/b/69e693841df73bb526e68bdf/ATTI29cdcbf8fc0a7585a1c116a0b63e618cF91A12E6/historias-de-usuario)**
@@ -145,8 +148,11 @@ Developers: Santiago Becerra, Thomas serrano, Kamilo
 #  📋 Registro de Sprints
 
 <br>
+
 **📽️ [Ver Video de Daily](https://drive.google.com/file/d/1xrm49mOmnmKjO0bZ5DUgYr8C3b6qfp9b/view?usp=sharing )**
+
 <br>
+
 **Sprint #1**
 
 En este sprint se trabajo el apartado de registro de usuario y gestión de oferta manejando un puntaje de esfuerzo de 30, se adelantaron labores de analísis tales como la consolidación de la base de datos y algunos errores a lo largo del proceso.
