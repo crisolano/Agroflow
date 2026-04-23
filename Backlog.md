@@ -3,6 +3,18 @@
 **Proyecto:** Agroflow  
 **Versión:** 1.0  
 ---
+# Vision del producto
+
+Buscamos crear una aplicacion que pueda ser usada por todos los clientes que lo soliciten facilmente con una interfaz mas sencilla y facil de entender. Tenermos el objetico de resolver el problema de el movimiento de los alimentos en respectivas zonas con nuestro sistema de transportistas, productores y compradores.
+
+## Roles del equipo de trabajo 
+**Product owner**: Cristian solano 
+<br>
+**Scrum Master**: Jhohhan Daniel
+<br>
+**Developers**: Santiago Becerra, Thomas serrano, Kamilo 
+<br>
+
 
 ## 👥 Stakeholders
 
@@ -50,18 +62,6 @@
 | RNF08 | Tolerancia a fallos | Manejo de fallos de red sin pérdida de información, con recuperación de datos. |
 
 ---
-## Vision del producto
-
-Buscamos crear una aplicacion que pueda ser usada por todos los clientes que lo soliciten facilmente con una interfaz mas sencilla y facil de entender. Tenermos el objetico de resolver el problema de el movimiento de los alimentos en respectivas zonas con nuestro sistema de transportistas, productores y compradores.
-
-## Roles del equipo de trabajo 
-**Product owner**: Cristian solano 
-<br>
-**Scrum Master**: Jhohhan Daniel
-<br>
-**Developers**: Santiago Becerra, Thomas serrano, Kamilo 
-<br>
-
 
 **📋 [Ver Historias en Trello](https://trello.com/invite/b/69e693841df73bb526e68bdf/ATTI29cdcbf8fc0a7585a1c116a0b63e618cF91A12E6/historias-de-usuario)**
 
