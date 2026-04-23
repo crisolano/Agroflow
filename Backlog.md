@@ -152,13 +152,12 @@ En este sprint se trabajo el apartado de registro de usuario y gestión de ofert
 
 <br>
 
----
+
 
 **Backlog Refinement**
 
 Un cambio realizado fue la edición de la historia HU-P01, HU-C01, agregandole a los criterios de aceptacion un modulo de recuperación de contraseñas.
 
----
 
 **Sprint Review 1**
 
@@ -169,7 +168,7 @@ Durante la realizacion de este sprint pudimos implementar funciones basicas a nu
 - Posibilidad de editar solicitudes
 - Buscador para comerciantes
 
----
+
 
 **Sprint Retrospective**
 
@@ -178,9 +177,10 @@ Durante la realizacion de este sprint pudimos implementar funciones basicas a nu
 - Mantener el buen ambiente laboral, la comunicacion acertiva y dar por bien recibida las opiniones de los demás integrantes.
 
 
----
 
 <br>
+
+---
 
 **Sprint #2**
 
@@ -196,13 +196,10 @@ Este sprint se centró en la gestión de pedidos y la visibilidad entre usuarios
 | HU-P09 | Media | 9 |
 | HU-C04 | Media | 5 |
 
----
 
 **Backlog Refinement**
 
 Se editó la historia HU-P05 agregando en sus criterios de aceptación que, al rechazar un pedido, el productor debe indicar un motivo obligatorio, permitiendo al comerciante entender la razón y tomar decisiones con mejor información.
-
----
 
 **Sprint Review 2**
 
@@ -215,8 +212,6 @@ Durante la realización de este sprint se implementaron las siguientes funcional
 - Historial de ventas para el productor.
 - Listado de compradores y productores cercanos por proximidad geográfica.
 
----
-
 **Sprint Retrospective**
 
 - Mejorar la distribución de tareas desde el inicio del sprint para evitar acumulación de trabajo al final.
@@ -224,8 +219,9 @@ Durante la realización de este sprint se implementaron las siguientes funcional
 - Mantener la documentación actualizada de forma paralela al desarrollo, evitando dejarla para el último momento.
 | HU-C03 | Alta | 5 |
 
----
 <br>
+
+---
 
 **Sprint #3**
 
