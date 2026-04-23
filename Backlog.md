@@ -172,8 +172,9 @@ Durante la realizacion de este sprint pudimos implementar funciones basicas a nu
 - Mantener el buen ambiente laboral, la comunicacion acertiva y dar por bien recibida las opiniones de los demás integrantes.
 
 ---
+<br>
 
-## Sprint #3
+**Sprint #3**
 
 En este sprint se trabaja empezar a notificar a los usuarios, continuando con el sistema de ubicación por cercanía y trabajamos a profundidad las coincidencias dependiendo de lo visto en cada usuario. 
 
