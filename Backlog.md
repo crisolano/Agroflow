@@ -2,11 +2,6 @@
 
 **Proyecto:** Agroflow  
 **Versión:** 1.0  
-**📋 [Ver Historias en Trello](https://trello.com/invite/b/69e693841df73bb526e68bdf/ATTI29cdcbf8fc0a7585a1c116a0b63e618cF91A12E6/historias-de-usuario)**
-
-**📽️ [Ver Video de Daily](https://drive.google.com/file/d/1xrm49mOmnmKjO0bZ5DUgYr8C3b6qfp9b/view?usp=sharing )**
-
-
 ---
 
 ## 👥 Stakeholders
@@ -55,6 +50,18 @@
 | RNF08 | Tolerancia a fallos | Manejo de fallos de red sin pérdida de información, con recuperación de datos. |
 
 ---
+## Vision del producto
+
+Buscamos crear una aplicacion que pueda ser usada por todos los clientes que lo soliciten facilmente con una interfaz mas sencilla y facil de entender. Tenermos el objetico de resolver el problema de el movimiento de los alimentos en respectivas zonas con nuestro sistema de transportistas, productores y compradores.
+
+## Roles del equipo de trabajo 
+Product owner: Cristian solano 
+Scrum Master : Jhohhan Daniel
+Developers: Santiago Becerra, Thomas serrano, Kamilo 
+
+
+**📋 [Ver Historias en Trello](https://trello.com/invite/b/69e693841df73bb526e68bdf/ATTI29cdcbf8fc0a7585a1c116a0b63e618cF91A12E6/historias-de-usuario)**
+
 
 ## 📖 Historias de Usuario
 
@@ -138,7 +145,8 @@
 #  📋 Registro de Sprints
 
 <br>
-
+**📽️ [Ver Video de Daily](https://drive.google.com/file/d/1xrm49mOmnmKjO0bZ5DUgYr8C3b6qfp9b/view?usp=sharing )**
+<br>
 **Sprint #1**
 
 En este sprint se trabajo el apartado de registro de usuario y gestión de oferta manejando un puntaje de esfuerzo de 30, se adelantaron labores de analísis tales como la consolidación de la base de datos y algunos errores a lo largo del proceso.
@@ -154,7 +162,6 @@ En este sprint se trabajo el apartado de registro de usuario y gestión de ofert
 | HU-T01 | Media | 5 |
 
 <br>
-
 
 
 **Backlog Refinement**
@@ -316,24 +323,12 @@ Como resultado, AgroFlow evolucionó hacia un sistema más completo, incorporand
 
 Durante este sprint se identificaron los siguientes aspectos:
 
-**Aspectos positivos:**
-
 - Se logró integrar exitosamente un nuevo rol dentro del sistema sin afectar los módulos existentes.
 - Hubo una mejor colaboración en tareas de integración entre componentes.
-- Se avanzó en la comprensión del flujo completo del negocio (oferta, demanda y logística).
-
-**Oportunidades de mejora:**
-
-- Algunas historias relacionadas con integración y matching fueron subestimadas en esfuerzo.
 - Se presentaron bloqueos por falta de definición clara en la interacción entre módulos.
 - Las pruebas de integración se realizaron de forma tardía.
-
-**Acciones de mejora:**
-
 - Definir contratos claros entre módulos antes de iniciar el desarrollo.
 - Incluir tareas de integración dentro de cada historia de usuario.
-- Realizar pruebas parciales durante el sprint y no solo al final.
-- Ajustar criterios de estimación para historias con alta complejidad lógica.
 
 ---
 
@@ -376,23 +371,11 @@ Como resultado, se fortaleció la capacidad de administración y control de Agro
 
 Durante este sprint se identificaron los siguientes aspectos:
 
-**Aspectos positivos:**
-
 - Mejor organización y distribución de tareas desde el inicio del sprint.
 - Reducción de acumulación de trabajo en la fase final.
 - Mayor claridad en los objetivos del sprint.
-
-**Oportunidades de mejora:**
-
-- Las historias relacionadas con analítica y reportes fueron más complejas de lo esperado.
-- Se presentaron retrabajos por falta de definición inicial en las visualizaciones requeridas.
 - Faltó apoyo de prototipos o diseños previos.
-
-**Acciones de mejora:**
-
 - Incluir prototipos o wireframes en historias relacionadas con interfaces complejas.
-- Refinar mejor los requerimientos de visualización antes del desarrollo.
-- Mantener la planificación anticipada y distribución equilibrada del trabajo.
 - Continuar con la documentación paralela al desarrollo.
 
 ---
