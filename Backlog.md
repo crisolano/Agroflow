@@ -178,6 +178,40 @@ Durante la realizacion de este sprint pudimos implementar funciones basicas a nu
 
 
 
+
+## Sprint #4
+
+En este sprint se empieza a desarrollar el módulo del transportista, consumiendo un puntaje de esfuerzo total de 32 puntos. Agregando el registro del transportista, publicación de rutas y el emparejamiento con los otros dos modulos de productor y comerciantes.
+
+
+| Historia de usuario | Prioridad | Valor    | 
+|---------------------|-----------|----------|
+| HU-T01 | Media | 5 |
+| HU-T02 | Media | 5 |
+| HU-P06 | Media | 5 |
+| HU-T03 | Media | 3 |
+| HU-S05 | Media | 3 |
+| HU-T04 | Media | 3 |
+| HU-T05 | Baja | 5 |
+| HU-T06 | Baja | 3 |
+
+---
+
+## Sprint #5
+
+En este sprint esta destinado a desarrollar el módulo de administrador de 31 puntos de esfuerzo en donde se desarrolla una nueva vista para administrar los estados de los usuarios y mostrar el compartamiento de los mismos a traves de nuevas pantallas o por medio de un archivo exportado desde el software.
+
+
+| Historia de usuario | Prioridad | Valor    | 
+|---------------------|-----------|----------|
+| HU-A01 | Baja | 9 |
+| HU-A02 | Baja | 13 |
+| HU-A03 | Baja | 9 |
+
+---
+
+
+
 <br>
 
 ---
