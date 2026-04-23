@@ -140,3 +140,8 @@ En este sprint se trabajo el apartado de registro de usuario y gestión de ofert
 | Historia de usuario | Prioridad | Valor    | 
 |---------------------|-----------|----------|
 | HU-P01 | Alta | 5 |
+| HU-P02 | Alta | 5 |
+| HU-P03 | Alta | 5 |
+| HU-C01 | Alta | 5 |
+| HU-C02 | Alta | 5 |
+| HU-T01 | Media | 5 |
