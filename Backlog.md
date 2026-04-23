@@ -132,6 +132,7 @@
 
 <br>
 
+#  📋 Registro de Sprints
 ## Sprint #1
 
 En este sprint se trabajo el apartado de registro de usuario y gestión de oferta manejando un puntaje de esfuerzo de 30, se adelantaron labores de analísis tales como la consolidación de la base de datos y algunos errores a lo largo del proceso.
@@ -145,3 +146,44 @@ En este sprint se trabajo el apartado de registro de usuario y gestión de ofert
 | HU-C01 | Alta | 5 |
 | HU-C02 | Alta | 5 |
 | HU-T01 | Media | 5 |
+
+**Sprint 2**
+
+Este sprint se centró en la gestión de pedidos y la visibilidad entre usuarios, trabajando un total de 7 historias de usuario con 33 puntos de valor. Las historias de alta prioridad cubrieron el flujo completo de pedidos: el productor puede verlos (HU-P04), aceptarlos o rechazarlos (HU-P05), el comerciante puede hacerles seguimiento (HU-C06) y el sistema registra cada transacción automáticamente (HU-S04). En media prioridad se trabajó la proximidad geográfica para productores (HU-P09) y comerciantes (HU-C04), además del historial de ventas (HU-P07).
+
+| Historia de usuario | Prioridad | Valor    | 
+|---------------------|-----------|----------|
+| HU-P04 | Alta | 3 |
+| HU-P05 | Alta | 5 |
+| HU-C06 | Alta | 5 |
+| HU-S04 | Alta | 5 |
+| HU-P07 | Media | 1 |
+| HU-P09 | Media | 9 |
+| HU-C04 | Media | 5 |
+
+---
+
+**Backlog Refinement**
+
+Se editó la historia HU-P05 agregando en sus criterios de aceptación que, al rechazar un pedido, el productor debe indicar un motivo obligatorio, permitiendo al comerciante entender la razón y tomar decisiones con mejor información.
+
+---
+
+**Sprint Review 2**
+
+Durante la realización de este sprint se implementaron las siguientes funcionalidades:
+
+- Visualización y gestión de solicitudes de compra por parte del productor.
+- Flujo de aceptación y rechazo de pedidos con notificación al comprador.
+- Generación de pedidos por parte del comerciante.
+- Registro automático de transacciones en el sistema.
+- Historial de ventas para el productor.
+- Listado de compradores y productores cercanos por proximidad geográfica.
+
+---
+
+**Sprint Retrospective**
+
+- Mejorar la distribución de tareas desde el inicio del sprint para evitar acumulación de trabajo al final.
+- Realizar revisiones de avance más frecuentes entre los integrantes del equipo para detectar bloqueos a tiempo.
+- Mantener la documentación actualizada de forma paralela al desarrollo, evitando dejarla para el último momento.
