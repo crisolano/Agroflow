@@ -133,7 +133,7 @@
 <br>
 
 #  📋 Registro de Sprints
-## Sprint #1
+**Sprint #1**
 
 En este sprint se trabajo el apartado de registro de usuario y gestión de oferta manejando un puntaje de esfuerzo de 30, se adelantaron labores de analísis tales como la consolidación de la base de datos y algunos errores a lo largo del proceso.
 
@@ -146,6 +146,37 @@ En este sprint se trabajo el apartado de registro de usuario y gestión de ofert
 | HU-C01 | Alta | 5 |
 | HU-C02 | Alta | 5 |
 | HU-T01 | Media | 5 |
+
+
+---
+
+**Backlog Refinement**
+
+Un cambio realizado fue la edición de la historia HU-P01, HU-C01, agregandole a los criterios de aceptacion un modulo de recuperación de contraseñas.
+
+---
+
+**Sprint Review 1**
+
+Durante la realizacion de este sprint pudimos implementar funciones basicas a nuestro proyecto, las cuales son:
+
+- Registro de los usuarios. 
+- Generar solicitudes de compra o venta. 
+- Posibilidad de editar solicitudes
+- Buscador para comerciantes
+
+---
+
+**Sprint Retrospective**
+
+- Depurar la procrastinación para de esta forma fomentar el trabajo en equipo y potenciar la productividad.
+- Promover el uso de las pausas activas durante la jornada laboral mejorando la circulación y la toma de decisiones.
+- Mantener el buen ambiente laboral, la comunicacion acertiva y dar por bien recibida las opiniones de los demás integrantes.
+
+
+---
+
+<br>
 
 **Sprint 2**
 
