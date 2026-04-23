@@ -269,7 +269,9 @@ Durante este tercer sprint implementamos funciones mas avanzadas las cuales son:
 
 **Sprint #4**
 
-En este sprint se empieza a desarrollar el módulo del transportista, consumiendo un puntaje de esfuerzo total de 32 puntos. Agregando el registro del transportista, publicación de rutas y el emparejamiento con los otros dos modulos de productor y comerciantes.
+Este sprint se centró en la incorporación del módulo de transporte dentro del ecosistema de AgroFlow, con el objetivo de cerrar el ciclo logístico entre productores y comerciantes. Se trabajó en la integración del nuevo rol de transportista, permitiendo la publicación de rutas, gestión de solicitudes de transporte y su vinculación con pedidos existentes.
+
+Durante este sprint se desarrollaron 8 historias de usuario, con un total de 32 puntos de esfuerzo.
 
 
 | Historia de usuario | Prioridad | Valor    | 
@@ -285,9 +287,63 @@ En este sprint se empieza a desarrollar el módulo del transportista, consumiend
 
 ---
 
+**Backlog Refinement**
+
+Se refinó la historia HU-T03, agregando como criterio de aceptación que las solicitudes de transporte deben incluir información detallada del pedido asociado (origen, destino, tipo de producto y volumen), con el fin de facilitar la toma de decisiones del transportista.
+
+---
+
+**Sprint Review 4**
+
+Durante la ejecución de este sprint se implementaron las siguientes funcionalidades:
+
+- Registro de transportistas dentro de la plataforma. 
+- Publicación de rutas, disponibilidad y capacidad de carg.
+- Integración del transportista con pedidos generados por productores y comerciantes.
+- Recepción de solicitudes de transporte asociadas a pedidos activos.
+- Sugerencia automática de transportistas disponibles por parte del sistema.
+- Flujo de aceptación o rechazo de servicios de transporte.
+- Visualización básica de rutas registradas.
+- Actualización del estado del servicio de transporte.
+
+Como resultado, AgroFlow evolucionó hacia un sistema más completo, incorporando la logística como parte fundamental del flujo de negocio.
+
+<br>
+
+---
+
+<br>
+
+**Sprint Retrospective**
+
+Durante este sprint se identificaron los siguientes aspectos:
+
+**Aspectos positivos:**
+
+- Se logró integrar exitosamente un nuevo rol dentro del sistema sin afectar los módulos existentes.
+- Hubo una mejor colaboración en tareas de integración entre componentes.
+- Se avanzó en la comprensión del flujo completo del negocio (oferta, demanda y logística).
+
+**Oportunidades de mejora:**
+
+- Algunas historias relacionadas con integración y matching fueron subestimadas en esfuerzo.
+- Se presentaron bloqueos por falta de definición clara en la interacción entre módulos.
+- Las pruebas de integración se realizaron de forma tardía.
+
+**Acciones de mejora:**
+
+- Definir contratos claros entre módulos antes de iniciar el desarrollo.
+- Incluir tareas de integración dentro de cada historia de usuario.
+- Realizar pruebas parciales durante el sprint y no solo al final.
+- Ajustar criterios de estimación para historias con alta complejidad lógica.
+
+---
+
 ## Sprint #5
 
-En este sprint esta destinado a desarrollar el módulo de administrador de 31 puntos de esfuerzo en donde se desarrolla una nueva vista para administrar los estados de los usuarios y mostrar el compartamiento de los mismos a traves de nuevas pantallas o por medio de un archivo exportado desde el software.
+Este sprint estuvo orientado al desarrollo del módulo de administración, enfocado en el control, monitoreo y análisis del comportamiento de los usuarios dentro de la plataforma. Se buscó proporcionar herramientas que permitan mantener la calidad del sistema y facilitar la toma de decisiones basada en datos.
+
+Se trabajaron 3 historias de usuario con un total de 31 puntos de esfuerzo.
 
 
 | Historia de usuario | Prioridad | Valor    | 
@@ -295,5 +351,53 @@ En este sprint esta destinado a desarrollar el módulo de administrador de 31 pu
 | HU-A01 | Baja | 9 |
 | HU-A02 | Baja | 13 |
 | HU-A03 | Baja | 9 |
+
+---
+
+**Backlog Refinement**
+
+Se refinó la historia HU-A02, incorporando criterios de aceptación relacionados con la visualización de métricas clave (usuarios activos, transacciones realizadas, volumen de pedidos), así como la posibilidad de filtrar la información por rangos de fecha.
+
+---
+
+**Sprint Review 4**
+
+Durante este sprint se implementaron las siguientes funcionalidades:
+
+- Gestión de estados de los usuarios (activo, inactivo, bloqueado).
+- Visualización del comportamiento de los usuarios mediante paneles de información.
+- Monitoreo de actividad dentro de la plataforma.
+- Generación de reportes exportables con información relevante del sistema.
+
+Como resultado, se fortaleció la capacidad de administración y control de AgroFlow, permitiendo una mejor supervisión del ecosistema y sentando bases para su escalabilidad.
+
+<br>
+
+---
+
+<br>
+
+**Sprint Retrospective**
+
+Durante este sprint se identificaron los siguientes aspectos:
+
+**Aspectos positivos:**
+
+- Mejor organización y distribución de tareas desde el inicio del sprint.
+- Reducción de acumulación de trabajo en la fase final.
+- Mayor claridad en los objetivos del sprint.
+
+**Oportunidades de mejora:**
+
+- Las historias relacionadas con analítica y reportes fueron más complejas de lo esperado.
+- Se presentaron retrabajos por falta de definición inicial en las visualizaciones requeridas.
+- Faltó apoyo de prototipos o diseños previos.
+
+**Acciones de mejora:**
+
+- Incluir prototipos o wireframes en historias relacionadas con interfaces complejas.
+- Refinar mejor los requerimientos de visualización antes del desarrollo.
+- Mantener la planificación anticipada y distribución equilibrada del trabajo.
+- Continuar con la documentación paralela al desarrollo.
 
 ---
