@@ -5,7 +5,7 @@
 ---
 # Vision del producto
 
-Buscamos crear una aplicacion que pueda ser usada por todos los clientes que lo soliciten facilmente con una interfaz mas sencilla y facil de entender. Tenermos el objetico de resolver el problema de el movimiento de los alimentos en respectivas zonas con nuestro sistema de transportistas, productores y compradores.
+Buscamos crear un sistema que pueda ser usada por todos los clientes que lo soliciten facilmente con una interfaz mas sencilla y facil de entender. Tenermos el objetico de resolver el problema de el movimiento de los alimentos en respectivas zonas con nuestro sistema de transportistas, productores y compradores.
 
 ## Roles del equipo de trabajo 
 **Product owner**: Cristian solano 
