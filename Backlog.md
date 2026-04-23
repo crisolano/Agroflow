@@ -63,7 +63,7 @@ Buscamos crear una aplicacion que pueda ser usada por todos los clientes que lo 
 <br>
 
 
-**📋 [Ver Historias en Trello](https://trello.com/invite/b/69e693841df73bb526e68bdf/ATTI29cdcbf8fc0a7585a1c116a0b63e618cF91A12E6/historias-de-usuario)**
+**📋 [Ver Historias en Trello](https://trello.com/invite/b/69e693841df73bb526e68bdf/ATTI29cdcbf8fc0a7585a1c116a0b63e618cF91A12E6/historias-de-usuario)** en https://trello.com/invite/b/69e693841df73bb526e68bdf/ATTI29cdcbf8fc0a7585a1c116a0b63e618cF91A12E6/historias-de-usuario
 
 
 ## 📖 Historias de Usuario
@@ -149,7 +149,7 @@ Buscamos crear una aplicacion que pueda ser usada por todos los clientes que lo 
 
 <br>
 
-**📽️ [Ver Video de Daily](https://drive.google.com/file/d/1xrm49mOmnmKjO0bZ5DUgYr8C3b6qfp9b/view?usp=sharing )**
+**📽️ [Ver Video de Daily](https://drive.google.com/file/d/1xrm49mOmnmKjO0bZ5DUgYr8C3b6qfp9b/view?usp=sharing )** en https://drive.google.com/file/d/1xrm49mOmnmKjO0bZ5DUgYr8C3b6qfp9b/view?usp=sharing
 
 <br>
 
