@@ -240,6 +240,7 @@ En este sprint se trabaja empezar a notificar a los usuarios, continuando con el
 
 **Backlog Refinement**
 
+El cambio realizado fue la edición de la priorización de la historia HU-P08 de baja a media ya que consideramos importante poder calificar a los compradores para tener una mejor experiencia.
 
 
 ---
@@ -248,17 +249,22 @@ En este sprint se trabaja empezar a notificar a los usuarios, continuando con el
 
 Durante este tercer sprint implementamos funciones mas avanzadas las cuales son:
 
-- Trabajamos con las recomendaciones segun el rol de la persona 
-- 
-- 
-- 
+- Trabajamos con las recomendaciones o sugerencias segun el rol de la persona. 
+- Implementación de la comparación de precios.
+- Creación del sistema de notificaciones.
+- Incorporación de las calificaciones de los compradores.
+- Renovación de la priorización por cercanía.
+
+<br>
 
 ---
 
+<br>
+
 **Sprint Retrospective**
 
-- 
-- 
-- 
+- Traer al equipo de trabajo incentivos tales como snacks y menciones honorificas a las buenas prácticas.
+- Respetar horarios de trabajo, promoviendo un ambiente más silencioso y enfocado.
+- Mantener el foco en el trabajo en equipo y en la continuidad de los roles de cada persona.
 
 ---
