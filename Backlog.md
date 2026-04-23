@@ -118,6 +118,8 @@
 | HU-A02 | Como administrador, quiero ver reportes | - Reportes de usuarios activos, pedidos y transacciones |
 | HU-A03 | Como administrador, quiero generar reportes de uso y peticiones de los clientes | - Reportes con solicitudes, frecuencia de uso y comportamiento <br> - Posibilidad de exportar o visualizar |
 
+<br>
+
 # 📋 Épicas Y Prioridad
 
 | Epicas | Historia de Usuario | Prioridad      |
@@ -127,3 +129,14 @@
 | De historial/reportes | - HU-A02 <br> - HU-A03 <br> - HU-P07  | - Baja <br> - Baja <br> - Media |
 | De gestion de ofertas | - HU-P02 <br> - HU-P03 <br> - HU-P09  | - Alta <br> - Alta <br> - Media |
 | De registro | - HU-P01 <br> - HU-C01 <br> - HU-T01  | - Alta <br> - Alta <br> - Media |
+
+<br>
+
+## Sprint #1
+
+En este sprint se trabajo el apartado de registro de usuario y gestión de oferta manejando un puntaje de esfuerzo de 30, se adelantaron labores de analísis tales como la consolidación de la base de datos y algunos errores a lo largo del proceso.
+
+
+| Historia de usuario | Prioridad | Valor    | 
+|---------------------|-----------|----------|
+| HU-P01 | Alta | 5 |
