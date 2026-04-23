@@ -170,3 +170,45 @@ Durante la realizacion de este sprint pudimos implementar funciones basicas a nu
 - Depurar la procrastinación para de esta forma fomentar el trabajo en equipo y potenciar la productividad.
 - Promover el uso de las pausas activas durante la jornada laboral mejorando la circulación y la toma de decisiones.
 - Mantener el buen ambiente laboral, la comunicacion acertiva y dar por bien recibida las opiniones de los demás integrantes.
+
+---
+
+## Sprint #3
+
+En este sprint se trabaja empezar a notificar a los usuarios, continuando con el sistema de ubicación por cercanía y trabajamos a profundidad las coincidencias dependiendo de lo visto en cada usuario. 
+
+| Historia de usuario | Prioridad | Valor    | 
+|---------------------|-----------|----------|
+| HU-C05 | Media | 5 |
+| HU-C07 | Media | 3 |
+| HU-S01 | Alta | 9 |
+| HU-S02 | Alta | 5 |
+| HU-S03 | Media | 5 |
+| HU-P08 | Baja | 3 |
+
+---
+
+**Backlog Refinement**
+
+
+
+---
+
+**Sprint Review 3**
+
+Durante este tercer sprint implementamos funciones mas avanzadas las cuales son:
+
+- Trabajamos con las recomendaciones segun el rol de la persona 
+- 
+- 
+- 
+
+---
+
+**Sprint Retrospective**
+
+- 
+- 
+- 
+
+---
